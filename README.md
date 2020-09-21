@@ -5,8 +5,11 @@ Due to file upload restrictions we had split our model.h5 files into 3 files so 
 JPS
 
 |__art classifier
+
   |__art_model.py
+  
   |__icon.ico
+  
   |__....jpg file
   |__final_model1 + final_model2 + final_model2 -> final_model.h5py
   
@@ -36,21 +39,15 @@ JPS
     |__bot
      |__.idea
       |__not so important
-      
-     |__data
-      |__.yaml files
-      
-     |__static
-      |__style.css
-      
-     |__templates
-      |__index.html
-      
-     |__db.sqlite3
-     
-     |__intructions
-     
-     |__sample.py
+      |__data
+        |__.yaml files
+      |__static
+        |__style.css
+      |__templates
+        |__index.html
+      |__db.sqlite3
+      |__intructions
+      |__sample.py
 
 Extract files according to this map above.
 
