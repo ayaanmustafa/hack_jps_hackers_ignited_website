@@ -1,7 +1,7 @@
-# hack_jps_hackers_ignited_website
+## hack_jps_hackers_ignited_website
 A website dedicated to inspire people towards ML
 Due to file upload restrictions we had split our model.h5 files into 3 files so in order to test it you need to compile them as:
-
+You can install the projects from the website also
 JPS
 
 |__art classifier
