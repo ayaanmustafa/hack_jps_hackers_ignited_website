@@ -36,23 +36,33 @@ JPS
     |__bot
      |__.idea
       |__not so important
+      
      |__data
       |__.yaml files
+      
      |__static
       |__style.css
+      
      |__templates
       |__index.html
+      
      |__db.sqlite3
+     
      |__intructions
+     
      |__sample.py
 
 Extract files according to this map above.
+
 In order to run the chatbot just double-click on the sample.py
+
 Double-click on the index.html file in the HACKATHON -> HTML -> index.html
 
 In order to see the classifiers:-
+
 double click on the respective python files
 
 To test the NLP model:
+
 Download corpus data -> store on drive -> In the website, click on the see and run yourself now button -> Mount it to drive -> change the text file directory (corpus) according to the location of song.txt file(corpus) -> Go to runtime and click on run all -> See the model train and improve and test yourself!!
 
